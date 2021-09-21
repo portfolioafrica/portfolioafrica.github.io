@@ -375,6 +375,9 @@ section .title::after{
 .skills-content .right .security::before{
     width: 60%;
 }
+.skills-content .right .editing::before{
+    width: 85%;
+}
 .skills-content .right .mysql::before{
     width: 62%;
 }
