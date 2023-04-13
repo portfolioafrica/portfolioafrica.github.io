@@ -376,10 +376,10 @@ section .title::after{
     width: 68%;
 }
 .skills-content .right .editing::before{
-    width: 85%;
+    width: 84%;
 }
 .skills-content .right .mysql::before{
-    width: 62%;
+    width: 77%;
 }
 
 /* teams section styling */
