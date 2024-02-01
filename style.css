@@ -361,7 +361,7 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 70%;
+    width: 66%;
 }
 .skills-content .right .css::before{
     width: 66%;
@@ -370,10 +370,10 @@ section .title::after{
     width: 58%;
 }
 .skills-content .right .data::before{
-    width: 65%;
+    width: 70%;
 }
 .skills-content .right .security::before{
-    width: 69%;
+    width: 70%;
 }
 .skills-content .right .editing::before{
     width: 84%;
