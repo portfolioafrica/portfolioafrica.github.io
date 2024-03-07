@@ -367,16 +367,16 @@ section .title::after{
     width: 81%;
 }
 .skills-content .right .js::before{
-    width: 58%;
+    width: 74%;
 }
 .skills-content .right .data::before{
-    width: 70%;
+    width: 84%;
 }
 .skills-content .right .security::before{
     width: 75%;
 }
 .skills-content .right .editing::before{
-    width: 84%;
+    width: 88%;
 }
 .skills-content .right .mysql::before{
     width: 77%;
